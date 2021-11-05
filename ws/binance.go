@@ -5,7 +5,7 @@ import (
 
 	"github.com/xenking/fastws"
 
-	"github.com/xenking/binance-api"
+	"github.com/ToPal/binance-api"
 )
 
 const (

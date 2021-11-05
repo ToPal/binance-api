@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/xenking/binance-api"
+	"github.com/ToPal/binance-api"
 )
 
 // UpdateType represents type of account update event

@@ -16,7 +16,7 @@ package main
 import (
     "log"
 
-    "github.com/xenking/binance-api"
+    "github.com/ToPal/binance-api"
 )
 
 func main() {
@@ -41,7 +41,7 @@ func main() {
 
 ## Installation
 ```
-go get -u github.com/xenking/binance-api
+go get -u github.com/ToPal/binance-api
 ```
 
 ## Getting started
